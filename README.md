@@ -1,0 +1,1 @@
+# Exemplo de criação e utilização de um ID único para servir como trace ID de Logs
